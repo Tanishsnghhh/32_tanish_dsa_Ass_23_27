@@ -1,1 +1,7 @@
-# 32_tanish_dsa_Ass_23_27
+1)Array- Inventory management system
+
+2)Singly linked list- library catalogue system
+
+3)Doubly linked list- music playlist system
+
+4)Circular linked list- printing scheduling system
